@@ -1,0 +1,1 @@
+export const path = "http://10.26.44.21:3000"
